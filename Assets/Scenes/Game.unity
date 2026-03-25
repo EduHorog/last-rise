@@ -346,3 +346,8 @@ SceneRoots:
   m_Roots:
   - {fileID: 519420032}
   - {fileID: 619394802}
+<<<<<<< HEAD
+=======
+  - {fileID: 488614541}
+  - {fileID: 112415100}
+>>>>>>> parent of cd51c7c (Add 3-d Platform)
